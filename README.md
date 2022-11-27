@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, je m'appelle Monique Garcia Dutaitre</h1>
+<h1 align="center"> Bonjour👋, je m'appelle Monique Garcia Dutaitre</h1>
 <h3 align="center">Une développeuse web full stack made in France</h3>
 
 <h3 align="left">Contactez moi sur : www.monique.garciadutaitre.com</h3>
