@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, je m'appelle Monique Garcia Dutaitre</h1>
 <h3 align="center">Une développeuse web full stack made in France</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactez moi sur : www.monique.garciadutaitre.com</h3>
 <p align="left">
 </p>
 
